@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /download/
 
-Sitemap: https://bundleup.me/sitemap.xml
+Sitemap: https://heypompom.com/sitemap.xml
